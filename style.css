@@ -1,7 +1,7 @@
 
     body {
       font-family: 'Segoe UI', Arial, sans-serif;
-      background: #f8f9fa;
+      background: #000000;
       color: #222;
       margin: 0;
       padding: 0;
@@ -15,7 +15,7 @@
       padding: 32px 40px;
     }
     h1, h2 {
-     color: #4a2390; /* Dark Purple Text */
+     color: #469e13; /* Dark Purple Text */
     }
     h1 {
       font-size: 2.2em;
@@ -57,3 +57,4 @@
     footer a:hover {
       text-decoration: underline;
     }
+    
